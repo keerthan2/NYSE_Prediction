@@ -30,7 +30,7 @@ Notice that the model prediction is same across all the four categories. This mi
 
 * The current model is a simple RNN. One can use other variants of RNN such as LSTM and GRU.
 * We can also try implementing a transformer network (which was revolutionary in language translation) for this problem.
-* Include more features such as additional income, capital expenditure etc.
+* Include some more features such as additional income, capital expenditure etc.
 * Scaling this data sometimes worsens the prediction. In that case, find an optimal scaling mechanism.
 
 
